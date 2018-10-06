@@ -1,0 +1,3 @@
+rem bcc -Id:\l\bc\include -Ld:\l\bc\lib -O -G -WES -v -y -w spook.c
+bcc -Id:\l\bc\include -Ld:\l\bc\lib -O -G -WES -w spook.c
+
